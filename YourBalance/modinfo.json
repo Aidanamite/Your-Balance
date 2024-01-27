@@ -1,0 +1,14 @@
+{
+  "name": "Your Balance",
+  "author": "Aidanamite + Akitake",
+  "description": "Gives players the ability to control gameplay variables in-game",
+  "version": "4.0.6a",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/your-balance-old/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
